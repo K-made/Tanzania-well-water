@@ -49,9 +49,10 @@ Some columns were irrelevant for prediction because they represented the same th
 By carrying out EDA on the cleaned data as seen in this notebook, various patterns were discovered in the dependent and independent variables.. This analysis made it possible to understand how the value of the dependent variable changes as the value of any of the independent variables change.
 
 ### Data Interpretation ##
-In this Project, we are going to predict the Price of Used Cars using various features like  Selling_Price, Kms_Driven, Fuel_Type, Year etc. 
+ 
+This project is going to predict the condition of a water well in Tanzania based on factors such as type of pump, installation date, and other relevant information.
 
-![image](https://user-images.githubusercontent.com/116062465/212165581-2cd03e5e-b4f7-459f-937f-2a64e808b325.png)
+
 
 
 
@@ -69,7 +70,7 @@ The final model, a Random Forest Classifier, achieved an accuracy of 80.03% and 
 
 
 ## 7.REPOSITORY GUIDE
-The data set used can be found [here](https://github.com/Wachira-2030/used-car-price-prediction/blob/main/Car%20details%20v3.csv)
+- The data set used can be found [here](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/data/)
 - The data report can be found [here](https://docs.google.com/document/d/1R1BRsmBP6aQKFQWkamX431vkX9ZU-B1hudQephClxj4/edit#)
 - The notebook can be found [here](https://github.com/K-made/Tanzania-well-water/blob/main/index.ipynb)
 - The Presentation Slides can be found [here](https://www.canva.com/design/DAFaG4R1FDM/cX2kQqkgauhNzChEr3CszQ/edit)
