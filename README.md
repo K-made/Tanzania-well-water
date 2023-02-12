@@ -49,9 +49,10 @@ Some columns were irrelevant for prediction because they represented the same th
 By carrying out EDA on the cleaned data as seen in this notebook, various patterns were discovered in the dependent and independent variables.. This analysis made it possible to understand how the value of the dependent variable changes as the value of any of the independent variables change.
 
 ### Data Interpretation ##
-In this Project, we are going to predict the Price of Used Cars using various features like  Selling_Price, Kms_Driven, Fuel_Type, Year etc. 
+ 
+This project is going to predict the condition of a water well in Tanzania based on factors such as type of pump, installation date, and other relevant information.
 
-![image](https://user-images.githubusercontent.com/116062465/212165581-2cd03e5e-b4f7-459f-937f-2a64e808b325.png)
+
 
 
 
