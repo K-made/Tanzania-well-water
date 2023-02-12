@@ -69,7 +69,7 @@ The final model, a Random Forest Classifier, achieved an accuracy of 80.03% and 
 
 
 ## 7.REPOSITORY GUIDE
-The data set used can be found [here](https://github.com/Wachira-2030/used-car-price-prediction/blob/main/Car%20details%20v3.csv)
+- The data set used can be found [here](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/data/)
 - The data report can be found [here](https://docs.google.com/document/d/1R1BRsmBP6aQKFQWkamX431vkX9ZU-B1hudQephClxj4/edit#)
 - The notebook can be found [here](https://github.com/K-made/Tanzania-well-water/blob/main/index.ipynb)
 - The Presentation Slides can be found [here](https://www.canva.com/design/DAFaG4R1FDM/cX2kQqkgauhNzChEr3CszQ/edit)
