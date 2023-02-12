@@ -1,5 +1,6 @@
 # Pump It Up  Tanzania Water Wells
 
+![abigail-keenan-_h_weGa3eGo-unsplash](https://user-images.githubusercontent.com/79564088/218335521-861ebd8a-2f7d-4bb0-8a6f-be7f361f718f.jpg)
 
 
 ## 1. INTRDUCTION
@@ -27,7 +28,7 @@ The python notebook is structured as follows:
 
 ## 4. DATA UNDERSTANDING
 ### The Data
-##### The data used in this project was downloaded from [Kaggle ](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho) 
+##### The data used in this project was downloaded from [Taarifa ](http://taarifa.org/) and [Tanzanian Ministry of Water](http://maji.go.tz/) 
 
 The data for this project is obtained from the Taarifa waterpoints dashboard, which has been aggregated from the Tanzania Ministry of Water and is used to track infrastructure-related issues. The data contains information on 59,400 waterpoints and is available as three datasets:
 
@@ -36,7 +37,7 @@ The data for this project is obtained from the Taarifa waterpoints dashboard, wh
 - Test set values. 
 
 The target variable is "status_group", which details the functionality of the waterpoints. The training data has 59,400 rows and 41 columns and contains information about the water pumps, such as the type of pump, installation date, location, etc.The test data has 40 columns and 14850 row. The data was acquired from Taarifa and the Tanzanian Ministry of Water and was downloaded from DrivenData.
-- Lastly, to validate this data reference was made to github repository [here](https://github.com/MercyNgila/Tanzanian-Water-Pump-Status)
+- Lastly, to validate this data reference was made at [here](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/data/)
 
 ### Data Preparation
 The data was checked for missing values and some columns were found to have null values.The column with higher percentage of null values was dropped with 6% and bellow of null values were dropped column wise.
