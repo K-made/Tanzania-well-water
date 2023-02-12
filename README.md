@@ -1,6 +1,7 @@
 # Pump It Up  Tanzania Water Wells
 
 
+![running](https://user-images.githubusercontent.com/79564088/218336606-cf150e55-1f2c-4b65-bc0d-b627990efd5b.jpg)
 
 ## 1. INTRDUCTION
 Tanzania, as a developing country, struggles with providing clean water to its population of over 57,000,000. There is a need to improve access to clean water for the population. While there are many water points already established, some are in need of repair and others have failed altogether. The challenge is to accurately predict the condition of a water well based on factors such as the type of pump, installation date, and other relevant information. The goal of this project is to develop a classifier that can accurately predict the condition of water wells, which can be useful for NGOs looking to locate wells needing repair or the government of Tanzania trying to find patterns in non-functional wells to influence how new wells are built
